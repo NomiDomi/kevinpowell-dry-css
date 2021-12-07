@@ -49,3 +49,14 @@ section {
     background-image: url(../img/mateusz-gzik-ayb-piJZwkE-unsplash.jpg);
     color: white;
 }
+
+.btn-normal {
+    display: inline-block;
+    background: rgb(36, 149, 146);
+    text-decoration: none;
+    padding: 1em 2em;
+}
+
+.btn-normal:hover {
+    background: rgb(36, 128, 125);
+}
